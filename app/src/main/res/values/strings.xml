@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TestProject007</string>
+    <string name="google_maps_key">AIzaSyAf8iJs_3L2zVwGPU21Ww7tZpPSGEcAtWk</string>
+    <string name="search">Поиск</string>
+    <string name="favourites">Избранное</string>
+    <string name="messages">Сообщения</string>
+    <string name="booking">Брони</string>
+    <string name="profile">Профиль</string>
+    <string name="search_title">Куда едем?</string>
+    <string name="cashback_title">Отсыпь кэшбэк!</string>
+    <string name="cashback_subtitle">Получайте кэшбэк до 30% от стоимости и делитесь с друзьями!</string>
+    <string name="cashback_description">После проживания мы вернём вам до 3000 ₽ бонусами.
+        Их можно потратить на бронирования или передать друзьям - пусть они тоже сэкономят!</string>
+    <string name="empty_screen_description">Извините, данный экран пока в разработке</string>
+    <string name="test_apartment_description">
+        1-комнатная квартира капитальный ремонт "под евро" и отдельная кухня сдаётся на срок от 3 суток. Заезд после 14:00, отъезд до 12:00. Этаж 3 из 5\n\n
+        Площадь: 32 м2\n
+        Спальные места: 1 двуспальная кровать, 2 дивана-кровати</string>
+    <string name="popular_apartment">Это жильё пользуется популярностью, бронируйте заранее.</string>
+    <string name="view_on_map">Посмотреть на карте</string>
+    <string name="price_by_day">Цены за сутки</string>
+    <string name="price">%1$d ₽</string>
+    <string name="price_by_day_description_test">включает проживание не более 4 гостей от 3 суток</string>
+    <string name="all_prices">Все цены</string>
+    <string name="you_watched">Вы смотрели</string>
+    <string name="popular_destinations">Популярные направления</string>
+    <string name="frequently_selected">Путешественники часто выбирают эти города</string>
+    <string name="last_reviews">Последние отзывы</string>
+    <string name="studio">Студия</string>
+    <string name="bedroom_1">1-комнатная квартира</string>
+</resources>
